@@ -24,7 +24,7 @@ function Footer() {
         <div className="flex my-10 justify-evenly lg:flex-row flex-col gap-4  items-stretch">
           <div className="md:text-start text-center ">
             <h1 className="text-3xl heading font-[600]">
-              I'D LOVE TO HEAR FROM YOU
+              {"I'D LOVE TO HEAR FROM YOU"}
             </h1>
             <div className="my-7  leading-8">
               <h3 className="text-[18px] heading font-[600] tracking-[0.2em]">

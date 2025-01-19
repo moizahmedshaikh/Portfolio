@@ -3,7 +3,6 @@ import Footer from "@/components/Footer";
 import MyLife from "@/components/MyLife";
 import Story from "@/components/Story";
 import Vlog from "@/components/Vlog";
-import Image from "next/image";
 
 export default function Home() {
   return (

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import React from "react";
 
 function Story() {
@@ -11,10 +10,10 @@ function Story() {
              STORY
           </h1>
           <p className="sm:text-[14px] text-lg text-[#7c7c7c] leading-6">
-            I'm a paragraph. Click here to add your own text and edit me.
-            It&apos;s easy. Just click “Edit Text” or double click me to add
+            {`I'm a paragraph. Click here to add your own text and edit me.
+            It${'&apos;s'} easy. Just click “Edit Text” or double click me to add
             your own content and make changes to the font. Feel free to drag and
-            drop me anywhere you like on your page.
+            drop me anywhere you like on your page.`}
           </p>{" "}
           <br />
           <p className="sm:text-[14px] text-lg text-[#7c7c7c] leading-6 mb-3">
